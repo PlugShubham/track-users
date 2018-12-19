@@ -1,0 +1,11 @@
+.main-container{
+    background-color: white;
+    min-height: 600px;
+    margin-top:0.7%;
+}
+.card-container{
+    background-color: white;
+    box-shadow: 0 0 5px 2px #FE9F6D;
+    margin: 20px;
+    padding:20px;
+}
